@@ -21,3 +21,5 @@ boolean_1 = True
 boolean_2 = False
 and = boolean_1 + boolean_2
 print(boolean_1 + boolean_2)
+
+#Hola Isma
